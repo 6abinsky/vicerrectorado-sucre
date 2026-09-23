@@ -1,0 +1,14 @@
+# Nunca publicar datos originales ni credenciales
+usfx_elecciones_data/
+.env
+.env.*
+*.py
+*.csv
+*.zip
+*.docx
+*.key
+web_config.json
+web_estado.json
+api_key.json
+node_modules/
+.DS_Store
